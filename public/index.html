@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Get Youtube Subscribers</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Get Youtube Subscribers Details</h1>
+  </header>
+
+  <main>
+    <!-- Button to fetch details of all subscriber with all parameters  -->
+    <section id="all-subscribers">
+      <h2>Fetch All Subscribers</h2>
+      <button id="fetch-all-subscribers">Fetch All Subscribers</button>
+      <ul id="subscribers-list"></ul>
+    </section>
+    <!-- Button to fetch name and subscribed channel of all subscribers  -->
+    <section id="subscriber-by-name">
+      <h2>Fetch Subscriber by Name</h2>
+      <button id="fetch-subscriber-by-name">Get Subscriber by Name</button>
+      <div id="subscriber-info-name"></div>
+    </section>
+    <!-- Button to fetch all details of subscriber through id  -->
+    <section id="subscriber-by-id">
+      <h2>Fetch Subscriber by ID</h2>
+      <input type="text" id="subscriber-id" placeholder="Enter subscriber ID">
+      <button id="fetch-subscriber-by-id">Get Subscriber by ID</button>
+      <p> Sample ID : 66b3d18527e348765b4e7871</p>
+      <div id="subscriber-info-id"></div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
