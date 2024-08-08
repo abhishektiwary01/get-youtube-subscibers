@@ -1,6 +1,6 @@
 ## Get Youtube Subscribers
 
-# AlmaBetter Backend Capstone Project
+AlmaBetter Backend Capstone Project
 Get YouTube Subscriber is a web application designed to retrieve and display subscriber information from YouTube channels. This project enables users to search for subscriber details using subscriber IDs or names, providing a streamlined interface for accessing subscriber data.
 
 # Key Features
