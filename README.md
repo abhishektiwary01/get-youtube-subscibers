@@ -8,7 +8,7 @@ YouTube Subscriber Fetcher is a web application designed to retrieve and display
 * Dynamic Data Display: View subscriber details including names and subscribed channels.
 * Error Handling: Handles common errors and prompts users to enter valid input.
 # Technologies Used
-* Frontend: HTML, Custom CSS
+* Frontend: HTML, CSS
 * Backend: Node.js, Express.js, Mongoose
 * Database: MongoDB
 * APIs: Custom API for fetching subscriber data
@@ -48,6 +48,22 @@ YouTube Subscriber Fetcher is a web application designed to retrieve and display
   Endpoint: http://localhost:3000/subscribers/name/
   Method: GET
   Description: Retrieves subscriber details by their name.
+
+# Application folder structure
+
+├── public/
+│   ├── index.html
+│   ├── script.js
+│   └── styles.css
+├── src/
+│   ├── models/
+│   │   └── subscribers.js
+│   ├── createDatabase.js
+│   └── data.js
+├── index.js
+├── package-lock.json
+└── package.json
+
 
 # Acknowledgements
 * Tailwind CSS: For styling and responsive design.
