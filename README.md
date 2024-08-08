@@ -55,7 +55,7 @@ YouTube Subscriber Fetcher is a web application designed to retrieve and display
 * MongoDB: For managing subscriber data.
 
 # Links
-* Deployment Link: https://get-youtube-subscribers.vercel.app/
+* Deployment Link: [https://get-youtube-subscribers.vercel.app/](https://get-youtube-subscibers.vercel.app/)
 
 # Developed By
 * Abhishek Tiwari
