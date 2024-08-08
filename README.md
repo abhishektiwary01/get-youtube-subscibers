@@ -50,7 +50,7 @@ YouTube Subscriber Fetcher is a web application designed to retrieve and display
   Description: Retrieves subscriber details by their name.
 
 # Application folder structure
-(`\```)
+```
 ├── public/
 │   ├── index.html
 │   ├── script.js
@@ -63,7 +63,7 @@ YouTube Subscriber Fetcher is a web application designed to retrieve and display
 ├── index.js
 ├── package-lock.json
 └── package.json
-(`\```)
+```
 
 # Acknowledgements
 * Tailwind CSS: For styling and responsive design.
