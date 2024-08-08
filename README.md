@@ -1,7 +1,7 @@
 ## Get Youtube Subscribers
 
-#AlmaBetter Backend Capstone Project
-YouTube Subscriber Fetcher is a web application designed to retrieve and display subscriber information from YouTube channels. This project enables users to search for subscriber details using subscriber IDs or names, providing a streamlined interface for accessing subscriber data.
+# AlmaBetter Backend Capstone Project
+Get YouTube Subscriber is a web application designed to retrieve and display subscriber information from YouTube channels. This project enables users to search for subscriber details using subscriber IDs or names, providing a streamlined interface for accessing subscriber data.
 
 # Key Features
 * Fetch Subscriber Information: Retrieve details about YouTube subscribers by entering their IDs or names.
